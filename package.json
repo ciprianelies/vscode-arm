@@ -1,8 +1,8 @@
 {
-	"name": "arm",
-	"displayName": "Arm Assembly (UPDATED)",
+	"name": "arm-assembly-syntax",
+	"displayName": "Arm Assembly Syntax",
 	"description": "Arm assembly syntax support for Visual Studio Code",
-	"version": "1.7.5",
+	"version": "1.7.6",
 	"publisher": "ciprianelies",
 	"icon": "images/icon.png",
 	"preview": true,
