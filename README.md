@@ -1,6 +1,8 @@
 # Arm® assembly highlighting for Visual Studio Code
 
-Adds syntax highlighting for the Arm Assembly language to Visual Studio Code. This extension was originally written to support the Arm instruction set used in teaching at the University of Manchester so availability of instructions on platforms is not guaranteed.
+Adds syntax highlighting for the Arm Assembly language to Visual Studio Code.
+
+This extension is forked from [dan-c-underwood/vscode-arm](https://github.com/dan-c-underwood/vscode-arm) in order to provide syntax highlighting for updated assembly instructions.
 
 ## Install
 
