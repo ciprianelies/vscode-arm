@@ -1,10 +1,11 @@
 {
 	"name": "arm",
-	"displayName": "Arm Assembly",
+	"displayName": "Arm Assembly (UPDATED)",
 	"description": "Arm assembly syntax support for Visual Studio Code",
-	"version": "1.7.4",
-	"publisher": "dan-c-underwood",
+	"version": "1.7.5",
+	"publisher": "ciprianelies",
 	"icon": "images/icon.png",
+	"preview": true,
 	"author": {
 		"name": "Dan Underwood"
 	},
@@ -20,7 +21,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/dan-c-underwood/vscode-arm.git"
+		"url": "https://github.com/ciprianelies/vscode-arm.git"
 	},
 	"contributes": {
 		"languages": [
